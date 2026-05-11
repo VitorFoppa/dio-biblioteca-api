@@ -1,0 +1,65 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Java
+*.class
+*.log
+*.ctxt
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse / Spring Tool Suite
+.project
+.classpath
+.settings/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Linux
+*~
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Env files
+.env
+
+# Application secrets
+application-prod.properties
+
+# Logs
+logs/
+*.out
+
+# Dependency directories
+node_modules/
+
+# Build
+build/
+
+# Railway
+railway.json
+
+# Maven Wrapper JVM files
+.mvn/wrapper/maven-wrapper.properties
+
+# Generated files
+bin/
