@@ -9,6 +9,7 @@ API REST desenvolvida com Spring Boot 3 e Java 21.
 - Spring Data JPA
 - PostgreSQL
 - Swagger/OpenAPI
+- Railway (deploy)
 
 ## Funcionalidades
 
